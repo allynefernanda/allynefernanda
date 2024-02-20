@@ -5,7 +5,7 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white))](https://hackerrank.com/allyne_sobrinho)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/fernandavso)
 
-![Allyne GitHub stats](https://github-readme-stats.vercel.app/api?username=allynefernanda&show_icons=true&theme=aura)
+![Allyne GitHub stats](https://github-readme-stats.vercel.app/api?username=allynefernanda&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allynefernanda)](https://github.com/allynefernanda/github-readme-stats)
 
