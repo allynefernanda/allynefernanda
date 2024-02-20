@@ -7,6 +7,8 @@
 
 ![Allyne GitHub stats](https://github-readme-stats.vercel.app/api?username=allynefernanda&show_icons=true&theme=aura)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allynefernanda)](https://github.com/allynefernanda/github-readme-stats)
+
 ### Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
