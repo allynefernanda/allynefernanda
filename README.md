@@ -1,5 +1,9 @@
 ### Olá ! Eu sou Allyne Fernanda 🖐🏻
 
+• Graduando de Ciência da Computação 
+<br/>
+• Bolsista PIBIC da UEPB
+
 [![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/allynefernanda12@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://linkedin.com/allyne-fernanda-5a3312231)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white))](https://hackerrank.com/allyne_sobrinho)
