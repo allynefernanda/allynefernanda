@@ -1,6 +1,6 @@
 ### Olá ! Eu sou Allyne Fernanda 🖐🏻
 
-• Graduando de Ciência da Computação 
+• Graduanda de Ciência da Computação 
 <br/>
 • Bolsista PIBIC da UEPB
 <br/>
