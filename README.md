@@ -1,4 +1,4 @@
-### Olá ! Eu sou a Allyne Fernanda 🖐🏻
+### Olá ! Eu sou Allyne Fernanda 🖐🏻
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_allyne_fernanda)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://linkedin.com/allyne-fernanda-5a3312231)
