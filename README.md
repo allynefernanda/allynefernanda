@@ -39,7 +39,7 @@
 
 ---
 
-## O que eu faço no dia a dia (sem citar empresa/projeto)
+## O que eu faço no dia a dia 
 - Interfaces com componentização, formulários e integração com APIs
 - Back-end com endpoints, validações, regras de negócio e consistência de dados
 - Debugging, logs e ajustes de performance quando necessário
