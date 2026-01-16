@@ -1,47 +1,46 @@
-### Olá ! Eu sou Allyne Fernanda 🖐🏻
+### Olá! Eu sou a Allyne Fernanda 👋🏻
 
-• Graduanda de Ciência da Computação
-<br>
-• Bolsista PIBIC da UEPB
-<br/>
+- 🎓 Graduanda em Ciência da Computação (UEPB)
+- 💻 Desenvolvedora de Software Jr (Web) — atuo com front-end e back-end
+- 🧠 Em evolução constante: APIs, SQL (MySQL), arquitetura, boas práticas e algoritmos
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/allyne-fernanda-5a3312231/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https:/fernandavsobrinho@gmail.com)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white))](https://hackerrank.com/allyne_sobrinho)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/fernandavso)
-
-![Allyne GitHub stats](https://github-readme-stats.vercel.app/api?username=allynefernanda&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allynefernanda&theme=tokyonight)](https://github.com/allynefernanda/github-readme-stats)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allyne-fernanda-5a3312231/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandavsobrinho@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/allyne_sobrinho)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/fernandavso)
 
 
-## Linguagens de Programação
+---
+
+## Stack principal (atual)
+<div style="display: inline_block">
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+
+---
+
+## Ferramentas & práticas
+<div style="display: inline_block">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img align="center" alt="REST" src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+</div>
+
+---
+
+## Também tenho contato com
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="Typscript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
- 
 </div>
 
-## Outras
-<div style="display: inline_block">
-  <img align="center" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</div><br/>
+---
 
-  
-## Frameworks 
-<div>
-  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-003366?style=for-the-badge&logo=swift&logoColor=white" />    
-</div><br/>
-
-## Banco de Dados
-<div>  <img align="center" alt="postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-<br/>
-
-
-## Skills
-<div>
-  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" </div>
+## O que eu faço no dia a dia (sem citar empresa/projeto)
+- Interfaces com componentização, formulários e integração com APIs
+- Back-end com endpoints, validações, regras de negócio e consistência de dados
+- Debugging, logs e ajustes de performance quando necessário
+- Organização e melhoria contínua do código (refatoração e boas práticas)
