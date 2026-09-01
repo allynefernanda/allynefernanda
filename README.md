@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oi! Eu sou a Allyne e sou Desenvolvedora de Software
+# Me chamo Allyne e sou Desenvolvedora de Software
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1000&color=E0509F&center=true&vCenter=true&width=560&lines=PHP+%2F+Laravel+%2F+MySQL;React+%2F+Next.js+%2F+TypeScript;git+commit+-m+%22it+works%22;console.log(%27hello+world%27)%3B" alt="Typing SVG" />
 
